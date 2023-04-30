@@ -1,5 +1,7 @@
 /data
-/data_acquisition/secrests.py
+
+data_acquisition/secrests.py
+
 
 # draft python codes
 draft.ipynb
@@ -167,4 +169,3 @@ cython_debug/
 
 # vscode cache
 .vscode/
-data_acquisition/secrests.py
