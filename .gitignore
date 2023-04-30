@@ -1,4 +1,5 @@
 /data
+/data_acquisition/secrests.py
 
 # draft python codes
 draft.ipynb
