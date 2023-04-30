@@ -167,3 +167,4 @@ cython_debug/
 
 # vscode cache
 .vscode/
+data_acquisition/secrests.py
